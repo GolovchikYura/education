@@ -14,7 +14,7 @@ for x in a:
 print('Положительных:', positive)
 print('Отрицательных:', negative)
 
-
+#good#
 
 
 
